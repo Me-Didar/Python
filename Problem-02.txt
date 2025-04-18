@@ -1,0 +1,11 @@
+ 
+def sort_strings(words):
+    sorted_list = sorted(words)
+    return sorted_list
+
+ 
+fruits = ["apple", "banana", "cherry", "kiwi", "grape"]
+
+ 
+sorted_fruits = sort_strings(fruits)
+print("Sorted list:", sorted_fruits)

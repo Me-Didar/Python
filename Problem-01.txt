@@ -1,0 +1,6 @@
+def find_average(num1, num2):
+    average = (num1 + num2) / 2
+    return average 
+print("Average of 4 and 8 is:", find_average(4, 8))
+print("Average of 10 and 20 is:", find_average(10, 20))
+print("Average of 5 and 7 is:", find_average(5, 7))
